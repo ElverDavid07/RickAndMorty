@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply bg-[#2A303C] text-white
+}
+.rdt_TableCol{
+  @apply   
+  text-cyan-500
+   text-sm
+    border-b-2
+     border-b-cyan-900
+      font-bold
+}
+/* .rdt_TableRow{
+    @apply even:bg-sky-50 
+} */
+
